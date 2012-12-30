@@ -13,5 +13,4 @@ $b = split("www", "coffeewwwpandas");
 $c = split("/ww[wW]/", "coffeewwwpandas");
 $d = spliti("www", "coffeewwwpandas");
 
-$poorely_escaped_string = 
 ?>
