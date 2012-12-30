@@ -9,8 +9,8 @@ sad pandas
 <?
 }
 
-$b = split("www", "coffeewwwpandas");
-$c = split("/ww[wW]/", "coffeewwwpandas");
+$b = explode("www", "coffeewwwpandas");
+$c = explode("/ww[wW]/", "coffeewwwpandas");
 $d = spliti("www", "coffeewwwpandas");
 
 ?>
