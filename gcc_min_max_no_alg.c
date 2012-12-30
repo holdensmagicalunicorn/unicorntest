@@ -2,8 +2,8 @@
 
 int main () {
   int a,b;
-  a <? b;
-  a <?= b;
-  a >? b;
-  a <? b;
+  std::min(a, b);
+  a = std::min(a, b);
+  std::max(a, b);
+  std::min(a, b);
 }
