@@ -1,5 +1,3 @@
-#include <algorithm>
-
 int main () {
   int a,b;
   std::min(a, b);
